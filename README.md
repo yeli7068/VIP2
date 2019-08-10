@@ -10,4 +10,8 @@ VIP2 was developed by Department of Core Facility, National Institute for Viral 
 # Key Features
 Comprehensive Sequencing Results Supported. VIP2 can analyze reads from either Next Generation Sequencing (NGS) or Third Generation Sequencing (TGS)
 
-Transparent Results for Re-checks. VIP2 provides the consensus sequence or confidence reads for final calls of virus. User can perform further analysis to make sure the identification, such as align reads through web blast.
+Transparent Results for Further Analysis. VIP2 provides the consensus sequence or confidence reads for final calls of virus. User can perform further analysis, such as re-checks through web blast.
+
+# Paper
+
+Li, Y. et al. VIP: an integrated pipeline for metagenomics of virus identification and discovery. Sci. Rep. 6, 23774; doi: 10.1038/srep23774 (2016).
